@@ -325,3 +325,8 @@ h1 {
     margin: auto;
     position: absolute;
 }
+.boton1{
+    position: relative;
+    top: 0;
+    right: -400;
+}
