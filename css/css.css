@@ -1,7 +1,7 @@
 body {
   font-family: Wendy One;
-  background-image: url();
-  background-position: right center;
+  background-image: url("https://images.pexels.com/photos/269583/pexels-photo-269583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
