@@ -348,11 +348,11 @@ main {
   position: absolute;
   padding: 1.5rem;
   line-height: 2rem;
-  right: 5px;
+  right: 1px;
   /*  */
   z-index: -1;
   background: white;
-  width: 390px;
+  width: 350px;
   height: 180px;
 
   transition: all .75s;
