@@ -2,7 +2,8 @@ body {
   font-family: Wendy One;
   background-image: url(Collage.gif);
   background-position: right center;
-  background-size: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 span {
   text-transform: uppercase;
